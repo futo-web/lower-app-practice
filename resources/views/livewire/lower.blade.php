@@ -17,4 +17,5 @@ mount(function () {
     <p>
         {{ $word_lower }}
     </p>
+    
 </div>
