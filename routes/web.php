@@ -8,4 +8,4 @@ Route::get('/', function () {
 });
 
 Volt::route('/lower/{word}', 'lower');
-
+Volt::route('/counter', 'counter');
